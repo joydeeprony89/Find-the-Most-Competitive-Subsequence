@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Most Competitive Subsequence", "Find the Most Competitive Subsequence\Find the Most Competitive Subsequence.csproj", "{16ACBAA7-9EE3-44A2-9879-E6A7DFCD767A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16ACBAA7-9EE3-44A2-9879-E6A7DFCD767A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16ACBAA7-9EE3-44A2-9879-E6A7DFCD767A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16ACBAA7-9EE3-44A2-9879-E6A7DFCD767A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16ACBAA7-9EE3-44A2-9879-E6A7DFCD767A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DFCFD0E-8334-4D4A-985F-BBE0ED69241B}
+	EndGlobalSection
+EndGlobal
